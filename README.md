@@ -1,6 +1,6 @@
-# learning-pinia
+# Pinia Task
 
-This template should help get you started developing with Vue 3 in Vite.
+A small application that consists of recording daily tasks
 
 ## Recommended IDE Setup
 
